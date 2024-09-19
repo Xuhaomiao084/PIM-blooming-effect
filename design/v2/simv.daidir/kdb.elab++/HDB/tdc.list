@@ -1,8 +1,0 @@
-core_top.v
-general_dff.v
-my_block_core.v
-my_block_top.v
-my_core.v
-my_mem.v
-my_sort.v
-tb.v
