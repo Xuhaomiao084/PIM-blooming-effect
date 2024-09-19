@@ -1,0 +1,94 @@
+@verdi rc file Version 1.0
+[General]
+saveDB = TRUE
+relativePath = FALSE
+saveSingleView = FALSE
+saveNWaveWinId = 
+VerdiVersion = Verdi_S-2021.09-SP2
+[KeyNote]
+Line1 = Automatic Backup 0
+Line2 = Save Open Database Information: Yes
+Line3 = Path Option: Absolute Paths
+Line4 = Windows Option: All Windows
+[OneSearch]
+isExisted = TRUE
+[TestBench]
+ConstrViewShow = 0
+InherViewShow = 0
+FSDBMsgShow = 0
+AnnotationShow = 0
+Console = FALSE
+powerDumped = 0
+[fusa]
+fdb_server = 
+fdb_proj = 
+fdb_campaign = 
+fdb_tool = 
+[hb]
+postSimFile = /sophoton_users/haomiao.xu/Desktop/Haomiao_XU/bishe/pim/design/v2/device.fsdb
+syncTime = 756
+viewport = 0 31 3437 1252 0 0 196 898
+activeNode = "tb_my_core.u_block_top"
+activeScope = "tb_my_core.u_block_top"
+activeFile = "core_top.v#inc___vcs_unit__1__1#"
+interactiveMode = False
+viewType = Source
+simulatorMode = False
+sourceBeginLine = 117
+baMode = False
+srcLineNum = True
+AutoWrap = True
+IdentifyFalseLogic = False
+syncSignal = False
+traceMode = Hierarchical
+showTraceInSchema = True
+paMode = False
+funcMode = False
+powerAwareAnnot = True
+safetyAwareAnnot = True
+amsAnnot = True
+DnDtraceCrossHierOnly = True
+leadingZero = False
+signalPane = False
+SourceVerticalScrollLines = 5
+Scope1 = "tb_my_core.u_block_top"
+Scope2 = "tb_my_core"
+multipleSelection = 1 127 4 0 0
+sdfCheckUndef = FALSE
+simFlow = FALSE
+[hb.design]
+importCmd = "-dbdir" "/sophoton_users/haomiao.xu/Desktop/Haomiao_XU/bishe/pim/design/v2/simv.daidir" 
+invokeDir = /sophoton_users/haomiao.xu/Desktop/Haomiao_XU/bishe/pim/design/v2
+[hb.sourceTab.1]
+scope = tb_my_core.u_block_top
+File = /sophoton_users/haomiao.xu/Desktop/Haomiao_XU/bishe/pim/design/v2/core_top.v#inc___vcs_unit__1__1#
+Line = 118
+[nMemoryManager]
+WaveformFile = /sophoton_users/haomiao.xu/Desktop/Haomiao_XU/bishe/pim/design/v2/device.fsdb
+UserActionNum = 0
+nMemWindowNum = 0
+[wave.0]
+viewPort = 0 30 3437 510 479 923
+primaryWindow = TRUE
+SessionFile = /sophoton_users/haomiao.xu/Desktop/Haomiao_XU/bishe/pim/design/v2/verdiLog/novas_autosave.ses.wave.0
+displayGrid = FALSE
+hierarchicalName = FALSE
+snap = TRUE
+displayLeadingZeros = FALSE
+fixDelta = FALSE
+displayCursorMarker = FALSE
+autoUpdate = FALSE
+highlightGlitchs = FALSE
+waveformSyncCursorMarker = FALSE
+waveformSyncHorizontalRange = FALSE
+waveformSyncVerticalscroll = FALSE
+displayErrors = TRUE
+displayMsgSymbols = TRUE
+showMsgDescriptions = TRUE
+autoFit = FALSE
+displayDeltaY = FALSE
+centerCursor = FALSE
+fsaRegMask = TRUE
+fsaCoreMask = TRUE
+fsaSfsmMask = TRUE
+fsaEcrMask = TRUE
